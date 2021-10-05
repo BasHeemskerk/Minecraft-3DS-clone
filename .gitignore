@@ -1,0 +1,8 @@
+*.3dsx
+*.elf
+*.smdh
+build
+debug_build
+.vscode/*
+.vs
+*.cia
